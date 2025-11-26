@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @korganrivera
-- 👀 I’m interested in math, coding, puzzles, rugby, cycling, gardening, solar power systems.
-- 🌱 I’m currently learning German, FreeCAD, woodworking, solar stuff.
+- 👀 I’m interested in math, coding, puzzles, composting, building soil, growing food.
 
 <!---
 korganrivera/korganrivera is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
